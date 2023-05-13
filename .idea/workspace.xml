@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d136dc9-a5ae-4eef-8f36-690f65b62b52" name="Changes" comment="DP">
-      <change afterPath="$PROJECT_DIR$/src/ON_KNAPSACK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Climbing_Stairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coin_Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coin_Change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Count_Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Count_Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Distinct_Subsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Distinct_Subsequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Freinds_Pairing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Freinds_Pairing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/O1_KNAPSACK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_KNAPSACK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smart_Robber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smart_Robber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ways134.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ways134.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ON_KNAPSACK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ON_KNAPSACK" />
@@ -57,7 +66,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682450609130</updated>
-      <workItem from="1682450611231" duration="525000" />
+      <workItem from="1682450611231" duration="1175000" />
+      <workItem from="1682528686967" duration="5000" />
+      <workItem from="1682931444939" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="DP">
       <created>1682450628373</created>
